@@ -1,3 +1,3 @@
 # stepik_auto_tests_course
 # To learn Selenium 
-# add read me
+# This is homework for the course https://stepik.org/course/575/syllabus
